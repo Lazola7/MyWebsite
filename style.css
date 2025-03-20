@@ -1,0 +1,183 @@
+/* Navigation Menu Styles */
+nav {
+    background-color: #333;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}
+
+nav ul li a:hover {
+    color: #007bff;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    max-width: 600px;
+    margin: 15px auto;
+    line-height: 1.6;
+    color: #555;
+}
+
+#magicButton {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#magicButton:hover {
+    background-color: #0056b3;
+}
+
+/* Contact Form Styles */
+#contactForm {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#contactForm label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+#contactForm input, #contactForm textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#contactForm textarea {
+    height: 100px;
+    resize: vertical;
+}
+
+#contactForm button {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#contactForm button:hover {
+    background-color: #218838;
+}
+
+/* Product Styles */
+.product {
+    background-color: white;
+    padding: 20px;
+    margin: 10px auto;
+    max-width: 500px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.product h3 {
+    color: #333;
+    margin-top: 0;
+}
+
+.product p {
+    margin: 5px 0;
+}
+
+/* Web Scan Form Styles */
+#webScanForm {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#webScanForm label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+#webScanForm input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#webScanForm button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#webScanForm button:hover {
+    background-color: #0056b3;
+}
+
+#scanResults {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#scanResults h2 {
+    color: #333;
+    margin-top: 0;
+}
+
+/* Timestamp Style */
+#timestamp {
+    color: #666;
+    font-size: 14px;
+    margin: 10px 0;
+}
