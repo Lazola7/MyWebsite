@@ -1,0 +1,20 @@
+{
+    "company": "Phakathi Industrial Solutions Pty Ltd",
+    "slogan": "Innovative Industrial Automation Solutions",
+    "products": [
+      {
+        "name": "Smart Factory Integration",
+        "price": "Custom Quote",
+        "description": "End-to-end automation systems for manufacturing"
+      },
+      {
+        "name": "IoT Monitoring Suite",
+        "price": "$2,500/month",
+        "description": "Real-time equipment analytics dashboard"
+      }
+    ],
+    "contact": {
+      "email": "info@phakathisolutions.co.za",
+      "phone": "+27 11 555 1234"
+    }
+  }
